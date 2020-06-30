@@ -1152,7 +1152,7 @@ button {
 		/* This sets the order of rendering. This will sit behind all elements with z-index > 1 */
 		z-index: 1;
 	}
-
+	/*
 	body.is-article-visible #bg:after {
 		-moz-transform: scale(1.0825);
 		-webkit-transform: scale(1.0825);
@@ -1162,7 +1162,7 @@ button {
 		-webkit-filter: blur(0.2rem);
 		-ms-filter: blur(0.2rem);
 		filter: blur(0.2rem);
-	}
+	}*/
 
 	body.is-preload #bg:before {
 		background-color: #000000;
